@@ -18,8 +18,8 @@ local try    = socket.try
 -- Module
 --
 local _M = {
-  _VERSION   = "0.9",
-  _COPYRIGHT = "LuaSec 0.9 - Copyright (C) 2009-2019 PUC-Rio",
+  _VERSION   = "0.10",
+  _COPYRIGHT = "LuaSec 0.10 - Copyright (C) 2009-2019 PUC-Rio",
   PORT       = 443,
   TIMEOUT    = 60
 }

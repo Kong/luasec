@@ -271,7 +271,7 @@ core.setmethod("info", info)
 --
 
 local _M = {
-  _VERSION        = "0.9",
+  _VERSION        = "0.10",
   _COPYRIGHT      = core.copyright(),
   config          = config,
   loadcertificate = x509.load,
